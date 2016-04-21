@@ -24,7 +24,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "debug": "^2.2.0",
-    "rethinkdbdash": "2.0.10"
+    "rethinkdbdash": "2.1.4"
   },
   "devDependencies": {
     "express": "^4.12.3",
